@@ -1,6 +1,6 @@
 # Freelance Website Project
 
-Welcome to the Freelance Website Project! This web application provides a platform for freelancers and clients to connect, manage projects, and handle job listings. The project is built using **HTML**, **CSS**, and **JavaScript** for the frontend, with **Django** as the backend framework, and a **MySQL** database for production with **SQLite** for local development.
+Welcome to the Freelance Website Project! This web application provides a platform for freelancers and clients to connect, manage projects, and handle job listings. The project is built using **HTML** and **CSS** for the frontend, with **Django** as the backend framework, and a **MySQL** database for production with **SQLite** for local development.
 
 ## Table of Contents
 
@@ -36,7 +36,6 @@ The Freelance Website Project is designed to streamline the process of job posti
 ### Frontend
 - **HTML**: Structuring the web pages.
 - **CSS**: Styling the application.
-- **JavaScript**: Client-side scripting and interactions.
 
 ### Backend
 - **Django**: For handling backend logic, routing, and user authentication.
@@ -122,7 +121,7 @@ The website will be accessible at `http://127.0.0.1:8000`.
 
 ```plaintext
 freelance-website/
-├── static/                 # Static assets (CSS, JavaScript, images)
+├── static/                 # Static assets (CSS, images)
 ├── templates/              # HTML templates
 ├── project_name/           # Django project settings and configuration
 ├── app_name/               # Core application folder (views, models, etc.)
@@ -139,5 +138,10 @@ freelance-website/
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
 
 Thank you for checking out the Freelance Website Project! We look forward to your contributions and feedback. Happy coding!
